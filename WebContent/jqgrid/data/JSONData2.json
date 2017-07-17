@@ -1,0 +1,6 @@
+{
+    "rows":[
+		{"id":1,"name":"第一級","address":"地址1","level_field":0,"parent_id_field":null,"leaf_field":false,"expanded_field":true},
+		{"id":2,"name":"第二級","address":"地址2","level_field":1,"parent_id_field":1,"leaf_field":true,"expanded_field":false}
+	]
+}
